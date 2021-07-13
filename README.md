@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **liuk22/liuk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Kaichen! 
+
+- I'm currently an undergrad at the University of California, Berkeley in their senior year at the Electrical Engineering and Computer Sciences department. At the moment, I'm involved with the [Mechanical Systems Control Lab](https://msc.berkeley.edu/) with some attempts at robotic exploration research. Most of my visible projects will be within this realm, with a few course projects scattered here and there. 
+- I'm currently interning at Bloomberg LP. Please reach out to my [LinkedIn](linkedin.com/in/liuk22) if you would like to chat about career opportunities!
+
