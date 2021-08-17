@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 Hi, I'm Kaichen! 
 
 - I'm an undergrad at the University of California, Berkeley in their senior year at the Electrical Engineering and Computer Sciences department. At the moment, I'm involved with the [Mechanical Systems Control Lab](https://msc.berkeley.edu/) with some attempts at robotic exploration research. Most of my visible projects will be within this realm, with a few course projects scattered here and there. 
-- I'm currently interning at Bloomberg LP. Please reach out to my [LinkedIn](linkedin.com/in/liuk22) if you would like to chat about career opportunities!
+- I am actively recruiting for postgrad opportunities, bringing a diverse set of skills acquired from internships at Bloomberg LP, Amazon Web Services, Parker Aerospace, startup work in the Bay, and more. Please reach out to my [LinkedIn](linkedin.com/in/liuk22) if you would like to chat about career opportunities!
 
