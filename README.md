@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Kaichen! 
 
-- I'm an undergrad at the University of California, Berkeley in their senior year at the Electrical Engineering and Computer Sciences department. At the moment, I'm involved with the [Mechanical Systems Control Lab](https://msc.berkeley.edu/) with some attempts at robotic exploration research. Most of my visible projects will be within this realm, with a few course projects scattered here and there. 
+- I'm an undergrad at the University of California, Berkeley in their senior year at the Electrical Engineering and Computer Sciences department. 
+- I love robotics, automotives, tennis, rock music, and searching for new restaurants. 
 - Please reach out to my [LinkedIn](linkedin.com/in/liuk22) if you would like to chat!
 
