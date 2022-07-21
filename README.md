@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 Hi, I'm Kaichen! 
 
-- I'm an undergrad at the University of California, Berkeley in their senior year at the Electrical Engineering and Computer Sciences department. 
 - I love robotics, automotives, tennis, rock music, the outdoors, and searching for awesome places to eat. 
 - Please reach out to my [LinkedIn](linkedin.com/in/liuk22) if you would like to chat!
 
