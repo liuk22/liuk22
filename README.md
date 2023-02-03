@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 Hi, I'm Kaichen! 
 
 - I love robotics, automotives, tennis, rock music, the outdoors, and searching for awesome places to eat. 
-- Please reach out to my [LinkedIn](linkedin.com/in/liuk22) if you would like to chat!
+- Please reach out to my [LinkedIn](https://linkedin.com/in/liuk22) if you would like to chat!
 
