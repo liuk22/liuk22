@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Kaichen! 
 
-- Software Engineer at Meta, Reality Labs. Cal B.S. EECS '22.  
+- I'm a software engineer at Meta in Reality Labs. 
+- I graduated B.S. EECS '22 from the University of California, Berkeley.  
 - Please reach out to my [LinkedIn](https://linkedin.com/in/liuk22) if you would like to chat!
 
